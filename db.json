@@ -1,10 +1,12 @@
-[
-{
-"id": 1,
-"name": "Peter Parker"
-},
-{
-"id": 2,
-"name": "Mary Jane"
-}
+[ 
+  "employees" : [
+    {
+      "id": 1,
+      "name": "Peter Parker"
+    },
+    {
+      "id": 2,
+      "name": "Mary Jane"
+    }
+  ]
 ]
