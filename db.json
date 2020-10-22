@@ -1,10 +1,10 @@
 [
 {
-id: 1,
-name: 'Peter Parker'
+"id": 1,
+"name": "Peter Parker"
 },
 {
-id: 2,
-name: 'Mary Jane'
+"id": 2,
+"name": "Mary Jane"
 }
 ]
